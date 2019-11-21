@@ -1,18 +1,14 @@
 {
    "cars":[
       {
-         "data":[
-            {
-               "id":"1",
-               "marka":"Seat",
-               "model":"Ibiza III",
-               "rok_produkcji":"2001",
-               "pojemnosc":"1.9",
-               "moc":"90",
-               "image":"https://i.pinimg.com/236x/38/1b/9e/381b9ea220a651632775a91250129f5b--ibiza.jpg",
-               "isMainCar":"1"
-            }
-         ],
+         "id":"1",
+         "marka":"Seat",
+         "model":"Ibiza III",
+         "rok_produkcji":"2001",
+         "pojemnosc":"1.9",
+         "moc":"90",
+         "image":"https://i.pinimg.com/236x/38/1b/9e/381b9ea220a651632775a91250129f5b--ibiza.jpg",
+         "isMainCar":"1",
          "parts":[
             {
                "part_name":"Klocki hamulcowe",
@@ -39,18 +35,14 @@
          ]
       },
       {
-         "data":[
-            {
-               "id":"2",
-               "marka":"Opel",
-               "model":"Signum",
-               "rok_produkcji":"2006",
-               "pojemnosc":"3.0",
-               "moc":"199",
-               "image":"https://dixi-car.pl/foto/galeria/vectra-c/vectra-c-kombi-po-liftingu-d.jpg",
-               "isMainCar":"0"
-            }
-         ],
+         "id":"2",
+         "marka":"Opel",
+         "model":"Signum",
+         "rok_produkcji":"2006",
+         "pojemnosc":"3.0",
+         "moc":"199",
+         "image":"https://dixi-car.pl/foto/galeria/vectra-c/vectra-c-kombi-po-liftingu-d.jpg",
+         "isMainCar":"0",
          "parts":[
             {
                "part_name":"Klocki hamulcowe",
