@@ -8,31 +8,7 @@
          "pojemnosc":"1.9",
          "moc":"90",
          "image":"https://i.pinimg.com/236x/38/1b/9e/381b9ea220a651632775a91250129f5b--ibiza.jpg",
-         "isMainCar":"1",
-         "parts":[
-            {
-               "part_name":"Klocki hamulcowe",
-               "additional_info":"Firma BREMBO",
-               "date":"01.09.2019",
-               "price":"128"
-            }
-         ],
-         "insurance":[
-            {
-               "policy_nr":"2019-815456181",
-               "additional_info":"AXA UBEZPIECZENIA",
-               "date_from":"09.11.2019",
-               "date_to":"08.11.2020"
-            }
-         ],
-         "services":[
-            {
-               "registry_nr":"XYZ12345",
-               "mileage":"309745",
-               "date_from":"09.11.2019",
-               "date_to":"08.11.2020"
-            }
-         ]
+         "isMainCar":"1"
       },
       {
          "id":"2",
@@ -42,31 +18,77 @@
          "pojemnosc":"3.0",
          "moc":"199",
          "image":"https://dixi-car.pl/foto/galeria/vectra-c/vectra-c-kombi-po-liftingu-d.jpg",
-         "isMainCar":"0",
-         "parts":[
-            {
-               "part_name":"Klocki hamulcowe",
-               "additional_info":"Firma BREMBO",
-               "date":"01.09.2019",
-               "price":"169"
-            }
-         ],
-         "insurance":[
-            {
-               "policy_nr":"2019-815456181",
-               "additional_info":"AVIVA UBEZPIECZENIA",
-               "date_from":"19.11.2019",
-               "date_to":"18.11.2020"
-            }
-         ],
-         "services":[
-            {
-               "registry_nr":"XYZ12345",
-               "mileage":"309745",
-               "date_from":"09.11.2019",
-               "date_to":"08.11.2020"
-            }
-         ]
+         "isMainCar":"0"
+      }
+   ],
+   "parts":[
+      {
+         "carId":1,
+         "partId":1,
+         "part_name":"Klocki hamulcowe",
+         "additional_info":"Firma BREMBO",
+         "date":"01.09.2019",
+         "price":"128"
+      },
+      {
+         "carId":1,
+         "partId":2,
+         "part_name":"Opony zimowe",
+         "additional_info":"Firma HANKOOK",
+         "date":"01.09.2019",
+         "price":"150"
+      },
+      {
+         "carId":2,
+         "partId":3,
+         "part_name":"Klocki hamulcowe",
+         "additional_info":"Firma BREMBO",
+         "date":"01.09.2019",
+         "price":"123"
+      },
+      {
+         "carId":2,
+         "partId":4,
+         "part_name":"Opony zimowe",
+         "additional_info":"Firma HANKOOK",
+         "date":"01.09.2019",
+         "price":"169"
+      }
+   ],
+   "insurance":[
+      {
+         "carId":1,
+         "insuranceId":1,
+         "policy_nr":"2019-815456181",
+         "additional_info":"AXA UBEZPIECZENIA",
+         "date_from":"09.11.2019",
+         "date_to":"08.11.2020"
+      },
+      {
+         "carId":2,
+         "insuranceId":2,
+         "policy_nr":"2019-815456181",
+         "additional_info":"AVIVA UBEZPIECZENIA",
+         "date_from":"12.10.2019",
+         "date_to":"11.10.2020"
+      }
+   ],
+   "services":[
+      {
+         "carId":1,
+         "serviceId":1,
+         "registry_nr":"XYZ12345",
+         "mileage":"309745",
+         "date_from":"09.11.2019",
+         "date_to":"08.11.2020"
+      },
+      {
+         "carId":2,
+         "serviceId":2,
+         "registry_nr":"XYZ12345",
+         "mileage":"309745",
+         "date_from":"09.11.2019",
+         "date_to":"08.11.2020"
       }
    ]
 }
