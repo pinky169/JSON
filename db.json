@@ -19,6 +19,16 @@
          "moc":"199",
          "image":"https://raw.githubusercontent.com/pinky169/Images/master/opel.jpg",
          "isMainCar":0
+      },
+      {
+         "id":3,
+         "marka":"Ford",
+         "model":"Mondeo",
+         "rok_produkcji":"2009",
+         "pojemnosc":"2.0",
+         "moc":"145",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/ford-mondeo-2009.jpg",
+         "isMainCar":0
       }
    ],
    "parts":[
