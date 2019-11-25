@@ -29,6 +29,16 @@
          "moc":"145",
          "image":"https://raw.githubusercontent.com/pinky169/Images/master/ford-mondeo-2009.jpg",
          "isMainCar":0
+      },
+      {
+         "id":4,
+         "marka":"Nissan",
+         "model":"Micra",
+         "rok_produkcji":"2003",
+         "pojemnosc":"1.4",
+         "moc":"65",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/nissan-micra-2003.jpg",
+         "isMainCar":0
       }
    ],
    "parts":[
