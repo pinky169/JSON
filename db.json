@@ -57,7 +57,7 @@
          "partId":1,
          "part_name":"Klocki hamulcowe",
          "additional_info":"Firma BREMBO",
-         "date":"01.09.2019",
+         "date":"23.01.2019",
          "price":"128"
       },
       {
@@ -66,30 +66,30 @@
          "part_name":"Opony zimowe",
          "additional_info":"Firma HANKOOK",
          "date":"01.09.2019",
-         "price":"150"
+         "price":"300"
       },
       {
          "carId":2,
          "partId":3,
-         "part_name":"Klocki hamulcowe",
-         "additional_info":"Firma BREMBO",
-         "date":"01.09.2019",
-         "price":"123"
+         "part_name":"Filtr paliwa",
+         "additional_info":"Firma BOSCH",
+         "date":"05.07.2019",
+         "price":"40"
       },
       {
          "carId":2,
          "partId":4,
-         "part_name":"Opony zimowe",
-         "additional_info":"Firma HANKOOK",
-         "date":"01.09.2019",
-         "price":"169"
+         "part_name":"Wymiana oleju",
+         "additional_info":"-",
+         "date":"17.09.2019",
+         "price":"50"
       }
    ],
    "insurance":[
       {
          "carId":1,
          "insuranceId":1,
-         "policy_nr":"2019-815456181",
+         "policy_nr":"2019-123456789",
          "additional_info":"AXA UBEZPIECZENIA",
          "date_from":"09.11.2019",
          "date_to":"08.11.2020"
@@ -97,7 +97,7 @@
       {
          "carId":2,
          "insuranceId":2,
-         "policy_nr":"2019-815456181",
+         "policy_nr":"2019-987654321",
          "additional_info":"AVIVA UBEZPIECZENIA",
          "date_from":"12.10.2019",
          "date_to":"11.10.2020"
@@ -115,10 +115,10 @@
       {
          "carId":2,
          "serviceId":2,
-         "registry_nr":"XYZ12345",
-         "mileage":"309745",
-         "date_from":"09.11.2019",
-         "date_to":"08.11.2020"
+         "registry_nr":"XYZ54321",
+         "mileage":"121538",
+         "date_from":"11.08.2019",
+         "date_to":"10.08.2020"
       }
    ]
 }
