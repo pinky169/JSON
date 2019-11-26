@@ -43,11 +43,11 @@
       {
          "id":5,
          "marka":"Ford",
-         "model":"Mustang",
+         "model":"Mustang Shelby GT500",
          "rok_produkcji":"2019",
-         "pojemnosc":"3.0",
-         "moc":"399",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/nissan-micra-2003.jpg",
+         "pojemnosc":"5.2",
+         "moc":"760",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/Ford-Shelby-Mustang-GT500.jpg",
          "isMainCar":0
       }
    ],
