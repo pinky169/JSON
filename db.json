@@ -57,7 +57,7 @@
          "rok_produkcji":"2018",
          "pojemnosc":"3.3",
          "moc":"366",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/kia-stinger.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/kia-stinger2018.jpg",
          "isMainCar":0
       },
       {
@@ -67,7 +67,7 @@
          "rok_produkcji":"2019",
          "pojemnosc":"2.0",
          "moc":"272",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/Arteon.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/Arteon2019.jpg",
          "isMainCar":0
       }
    ],
