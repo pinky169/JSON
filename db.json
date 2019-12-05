@@ -49,6 +49,26 @@
          "moc":"760",
          "image":"https://raw.githubusercontent.com/pinky169/Images/master/Ford-Shelby-Mustang-GT500.jpg",
          "isMainCar":0
+      },
+      {
+         "id":6,
+         "marka":"Kia",
+         "model":"Stinger",
+         "rok_produkcji":"2018",
+         "pojemnosc":"3.3",
+         "moc":"366",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/kia-stinger.png",
+         "isMainCar":0
+      },
+      {
+         "id":7,
+         "marka":"Volkswagen",
+         "model":"Arteon",
+         "rok_produkcji":"2019",
+         "pojemnosc":"2.0",
+         "moc":"272",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/Arteon.jpg",
+         "isMainCar":0
       }
    ],
    "parts":[
@@ -107,6 +127,22 @@
          "additional_info":"-",
          "date":"17.03.2019",
          "price":"40"
+      },
+      {
+         "carId":6,
+         "partId":8,
+         "part_name": "Wymiana kół",
+         "additional_info":"Zmiana na zimowe",
+         "date":"25.11.2019",
+         "price":"50"
+      },
+      {
+         "carId":7,
+         "partId":9,
+         "part_name": "Pasek klinowy",
+         "additional_info":"Okresowa wymiana",
+         "date":"07.06.2019",
+         "price":"200"
       }
    ],
    "insurance":[
