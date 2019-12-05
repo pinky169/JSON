@@ -7,7 +7,7 @@
          "rok_produkcji":"2001",
          "pojemnosc":"1.9",
          "moc":"90",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/Seat-Ibiza.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/seat-ibiza.jpg",
          "isMainCar":1
       },
       {
@@ -17,7 +17,7 @@
          "rok_produkcji":"2006",
          "pojemnosc":"3.0",
          "moc":"199",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/opel.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/opel-signum.jpg",
          "isMainCar":0
       },
       {
@@ -27,7 +27,7 @@
          "rok_produkcji":"2009",
          "pojemnosc":"2.0",
          "moc":"145",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/ford-mondeo-2009.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/ford-mondeo.jpg",
          "isMainCar":0
       },
       {
@@ -37,7 +37,7 @@
          "rok_produkcji":"2003",
          "pojemnosc":"1.4",
          "moc":"65",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/nissan-micra-2003.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/nissan-micra.jpg",
          "isMainCar":0
       },
       {
@@ -47,7 +47,7 @@
          "rok_produkcji":"2019",
          "pojemnosc":"5.2",
          "moc":"760",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/Ford-Shelby-Mustang-GT500.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/ford-shelby-mustang-GT500.jpg",
          "isMainCar":0
       },
       {
@@ -57,7 +57,7 @@
          "rok_produkcji":"2018",
          "pojemnosc":"3.3",
          "moc":"366",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/kia-stinger2018.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/kia-stinger.jpg",
          "isMainCar":0
       },
       {
@@ -67,7 +67,7 @@
          "rok_produkcji":"2019",
          "pojemnosc":"2.0",
          "moc":"272",
-         "image":"https://raw.githubusercontent.com/pinky169/Images/master/Arteon2019.jpg",
+         "image":"https://raw.githubusercontent.com/pinky169/Images/master/arteon.jpg",
          "isMainCar":0
       }
    ],
